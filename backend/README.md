@@ -9,7 +9,7 @@ Welcome to the backend portion of the GitHub OAuth 2 Integration project. This R
 2. **Clone the Repository**: Clone the project repository from GitHub:
 
    ```bash
-   git clone https://github.com/your/repo.git
+   git clone https://github.com/harry-raj/github-oauth.git
    ```
 
 3. **Install Dependencies**: Navigate to the project directory and install the required dependencies using npm:
