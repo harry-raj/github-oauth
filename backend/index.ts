@@ -10,7 +10,6 @@ require("./dataBase/mongoose");
 
 const AuthRouter = require('./routes/auth');
 const UserRouter = require('./routes/user');
-console.log(';process.env.PORT', process.env.PORT);
 
 const PORT = process.env.PORT || 3000;
 const app = express();
